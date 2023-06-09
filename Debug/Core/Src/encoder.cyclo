@@ -1,0 +1,8 @@
+encoder.c:10:6:Encoder_Init	1
+encoder.c:32:6:Encoder_Start	1
+encoder.c:40:6:Encoder_Stop	1
+encoder.c:46:6:Encoder_Reset	1
+encoder.c:51:6:Encoder_SampleQuadraturePosition	1
+encoder.c:56:6:Encoder_CalculateAbsolutePosition	1
+encoder.c:60:6:Encoder_CalculateQuadraturePosition	1
+encoder.c:66:6:Encoder_EncodePosition	1

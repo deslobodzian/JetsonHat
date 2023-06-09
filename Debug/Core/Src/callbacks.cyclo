@@ -1,0 +1,2 @@
+callbacks.c:12:6:HAL_TIM_IC_CaptureCallback	2
+callbacks.c:29:6:HAL_GPIO_EXTI_Callback	2
